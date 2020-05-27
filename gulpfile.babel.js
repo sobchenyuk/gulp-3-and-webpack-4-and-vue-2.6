@@ -35,10 +35,10 @@ const path = {
     },
     lib: {
         css: [
-            'node_modules/materialize-css/dist/css/materialize.css',
+            // 'node_modules/materialize-css/dist/css/materialize.css',
         ],
         js: [
-            'node_modules/materialize-css/dist/js/materialize.js'
+            // 'node_modules/materialize-css/dist/js/materialize.js'
         ],
     },
     dist: {
